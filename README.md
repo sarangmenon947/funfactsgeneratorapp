@@ -9,5 +9,6 @@ This project is designed as a fun tool to learn and experiment with web technolo
 ## Features
 
     Random Fun Fact Generation: Displays a random animal fact each time you click the "Generate Another Fun Fact" button.
+    
     Simple Design: Clean and responsive user interface with a pleasant color scheme.
-    Easy Hosting on GitHub Pages: No setup required, just push to GitHub and enable GitHub Pages to share your app with the world.
+    
